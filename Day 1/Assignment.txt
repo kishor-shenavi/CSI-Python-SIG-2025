@@ -1,0 +1,28 @@
+Python SIG CSI
+
+Assignment based on Day 1
+
+1. Write a program to assign values to variables of different data types (integer, float, string, and boolean) and print their values and types.
+
+2. Write a program to take a user's name and age as input and display a greeting message including their age.
+
+3. Write a program to input two numbers from the user and perform addition, subtraction, multiplication, division, and modulus operations. Display the results.
+
+4. Write a program to input two numbers and check if both numbers are greater than 50. Print "True" if both are greater, otherwise print "False".
+
+5. Write a program to check if a given number is positive, negative, or zero.
+
+6. Write a program to input three numbers and find the largest among them using if-else statements.
+
+7. Write a program to check if a given year is a leap year or not.
+
+8. Write a program to input a number and check whether it is even or odd.
+
+9. Write a program to input marks of a student and print the grade based on the following conditions:
+
+   * Marks ≥ 90 → Grade A
+   * Marks ≥ 75 → Grade B
+   * Marks ≥ 50 → Grade C
+   * Marks < 50 → Fail
+
+10. Write a program that takes an integer input from the user and checks whether it is divisible by both 3 and 5, only by 3, only by 5, or not divisible by either.
