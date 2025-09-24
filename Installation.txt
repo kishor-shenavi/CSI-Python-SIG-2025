@@ -1,0 +1,11 @@
+1. VS Code Installation in Windows
+
+https://www.youtube.com/watch?v=0yn7irrHzM8
+
+2. How to Run Python in Visual Studio Code on Windows
+
+https://youtu.be/mIVB-SNycKI?si=7HCy8Q3d3bnW40Ab
+
+2. How to Run Python in Visual Studio Code on Windows
+
+https://youtu.be/Zk7TG5BqxjY?si=gbYu-DZGpkTx7BCB
