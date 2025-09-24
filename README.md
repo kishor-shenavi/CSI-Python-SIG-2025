@@ -1,7 +1,7 @@
 # 🚀 CSI Python SIG 2025
 
 Welcome to the **CSI Python Special Interest Group (SIG) 2025** repository! 🎉  
-This repo contains all the resources, codes, assignments, and slides used in our 8-day Python to AI learning journey.
+This repo contains all the resources, codes, assignments, and slides used in our 10-day Python to AI learning journey.
 
 ---
 
