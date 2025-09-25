@@ -26,3 +26,12 @@ Assignment based on Day 1
    * Marks < 50 → Fail
 
 10. Write a program that takes an integer input from the user and checks whether it is divisible by both 3 and 5, only by 3, only by 5, or not divisible by either.
+
+CSI Members,
+
+Kindly upload your solutions to the following drive in PDF format using the naming convention:
+Name_Surname_RollNo_Day1.pdf
+
+📂 Drive Link: https://drive.google.com/drive/folders/1OonjkHhmlDChlOjql58ozhIHcLniDetG?usp=sharing
+
+We will evaluate your submissions, and the corresponding CCA hours will be awarded.
