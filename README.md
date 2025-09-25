@@ -42,10 +42,20 @@ This repo contains all the resources, codes, assignments, and slides used in our
 - Customer Segmentation Example
 
 ### **Day 9 – Artificial Intelligence & Generative AI**
-- AI Applications (Healthcare, Finance, Security)
-- Generative AI: ChatGPT, DALL·E, Gemini
+- What is AI?  
+- Narrow AI vs General AI  
+- Real-world Applications (Chatbots, Recommendation Systems, Autonomous Systems)  
+- Generative AI Concepts  
+- What is GenAI? (Text, Image, Audio, Video generation)  
+- Transformer-based Models (GPT, Gemini, LLaMA, etc.)  
+- Prompt Engineering Basics  
+- Hands-on Projects with Gemini API  
 
-### **Day 10 – Agentic AI**
-- AI Agents, AutoGPT, LangChain
-- Applications in Business, Research, Education
-
+### **Day 10 – Agentic AI (Autonomous AI Agents)**
+- What is Agentic AI?  
+- Difference between Traditional AI & AI Agents  
+- Concepts of Planning, Memory, and Tool Usage  
+- Agent Frameworks  
+  - LangChain  
+  - N8N (Workflow Automation with AI Agents)  
+- Hands-on Projects  
