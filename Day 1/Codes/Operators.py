@@ -2,9 +2,6 @@
 a = 10
 b = 5
 print(a + b)  # Addition
-print(a > b and b < 10)  # Logical AND
-
-
 
 #----------------------------------------------------------------------------------------------------
 
@@ -12,26 +9,16 @@ print(a > b and b < 10)  # Logical AND
 #Addition (+)
 print(2 + 3)  # Output: 5
 
-
-
 #Subtraction (-)
 print(3 - 2)  # Output: 1
-
-
 
 #Division (/)
 print(35 / 5)  # Output: 7.0 (float)
 
-
-
 #Multiplication (*)
 print(7 * 4)  # Output: 28
 
-
-
 #-------------------------------------------------------------------------------------------------
-
-
 # Taking two inputs from the user
 
 x = float(input("Enter the first number: "))  # First number (float for flexibility)
