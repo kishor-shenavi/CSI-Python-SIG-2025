@@ -1,5 +1,9 @@
 print("Hello, World!")
 
+# print("Hello") print("World")   # ❌ SyntaxError
+
+# print("Hello"); print("World")  # ✅ Works, but less Pythonic
+
 #--------------------------------------------------------------
 
 #to check data types in python
