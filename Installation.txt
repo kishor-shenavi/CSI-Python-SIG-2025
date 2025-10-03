@@ -9,3 +9,5 @@ https://youtu.be/mIVB-SNycKI?si=7HCy8Q3d3bnW40Ab
 2. How to Run Python in Visual Studio Code on Mac
 
 https://youtu.be/Zk7TG5BqxjY?si=gbYu-DZGpkTx7BCB
+
+3. Extension to install on VS Code - Python, Code Runner
