@@ -1,0 +1,27 @@
+Python SIG CSI
+
+Assignment based on day 3
+
+1. Write a function to add two numbers.
+
+2. Create a function that prints "Hello, World!"
+
+3. Write a function that returns the square of a number.
+
+4. Write a function that checks whether a number is even or odd.
+
+5. Create a function to find the maximum of three numbers.
+
+6. Write a function that calculates the factorial of a number.
+
+7. Write a function that takes a list and returns the sum of its elements.
+
+8. Create a function that prints numbers from 1 to n.
+
+CSI Members,
+Kindly upload your solutions to the following drive in PDF format using the naming convention:
+Name_Surname_RollNo_Day4.pdf
+
+📂 Drive Link: https://drive.google.com/drive/folders/1OonjkHhmlDChlOjql58ozhIHcLniDetG?usp=sharing
+
+We will evaluate your submissions, and the corresponding CCA hours will be awarded.
