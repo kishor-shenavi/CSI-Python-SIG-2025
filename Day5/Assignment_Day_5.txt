@@ -1,0 +1,78 @@
+Part A – Lists
+
+    1. List Operations:
+        Create a list of 6 integers.
+        Replace the 2nd element with 100
+        Append two elements
+        Remove the first even number
+        Print the updated list and its length.
+
+    2. Sorting & Unique Values:
+        Combine two lists [4, 2, 8, 4] and [6, 2, 9], remove duplicates, and print the sorted list in descending order.
+
+    3. Slicing Practice:
+        From a list of fruits, print:
+        First three fruits
+        Every second fruit
+        The reversed list using slicing.
+
+    4.List Comprehension:
+    Given [3, 6, 9, 12, 15], create a new list containing square of numbers greater than 8 using list comprehension.
+
+
+Part B – Tuples
+
+    1. Tuple Creation & Access:
+        Create a tuple of your 5 favorite songs.
+            Print the first and last song.
+            Try changing one element and note what happens in a comment.
+
+    2. Tuple Unpacking:
+        Given person = ("Kishor", 20, "CS"), unpack and print in the format:
+        "Kishor from CS is 20 years old."
+
+    3. Tuple Operations:
+        Given t1 = (2, 4, 6) and t2 = (8, 10), concatenate them, repeat twice, and check if 4 and 9 are present.
+
+    4.Conversion Practice:
+        Convert a list [1, 2, 3] into a tuple and a tuple (4, 5, 6) into a list, then print both.
+
+Part C – Sets (4 Questions)
+
+    1. Set Operations:
+        Create sets A = {1, 2, 3, 4} and B = {3, 4, 5, 6}.
+        Print their Union, Intersection, and Difference (A–B).
+
+    2. Removing Duplicates:
+        Convert list [1, 2, 2, 3, 3, 4, 5, 1] into a set to remove duplicates, and print both list length and set length.
+
+    3. Set Membership:
+        Given numbers = {10, 20, 30}, check if 40 exists.
+            If not, add it.
+            Then remove 10.
+            Print the updated set.
+
+    4. Frozen Set:
+        Create a normal set and a frozenset from [1, 2, 3].
+        Try adding an element to both and note what happens.
+
+Part D – Dictionaries (4 Questions)
+
+    1. Basic Dictionary:
+        Create a dictionary for a student: name, roll, and branch.
+        Print all keys and values using a loop.
+
+    2. Update & Delete:
+        From student = {"name": "Amit", "age": 20, "branch": "CS"},
+            Update age to 21
+            Add "city": "Pune"
+            Delete "branch"
+            Print the result.
+
+    3. Dictionary of Lists:
+        Create a dictionary where keys are subjects ("Math", "CS") and values are lists of marks.
+        Print the average marks for each subject.
+
+    4. Nested Dictionary:
+        Create a nested dictionary of 2 students (name, age, branch).
+        Print the second student’s name and both branches.
