@@ -76,3 +76,11 @@ Part D – Dictionaries (4 Questions)
     4. Nested Dictionary:
         Create a nested dictionary of 2 students (name, age, branch).
         Print the second student’s name and both branches.
+
+CSI Members,
+Kindly upload your solutions to the following drive in PDF format using the naming convention:
+Name_Surname_RollNo_Day5.pdf
+
+📂 Drive Link: https://drive.google.com/drive/folders/1OonjkHhmlDChlOjql58ozhIHcLniDetG?usp=sharing
+
+We will evaluate your submissions, and the corresponding CCA hours will be awarded.
